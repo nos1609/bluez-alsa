@@ -35,8 +35,8 @@
 # include <openaptx.h>
 #endif
 #if ENABLE_LDAC
-# include <ldacBT.h>
-# include <ldacBT_abr.h>
+# include <ldac/ldacBT.h>
+# include <ldac/ldacBT_abr.h>
 #endif
 
 #include "a2dp-codecs.h"
